@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33920.267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionalAssembliesBug", "AdditionalAssembliesBug\AdditionalAssembliesBug.csproj", "{4C4AF3A5-0614-486A-834F-3DAF25A91B03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorClassLibrary1", "RazorClassLibrary1\RazorClassLibrary1.csproj", "{03D7574C-025F-4318-B419-FC75B523F485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C4AF3A5-0614-486A-834F-3DAF25A91B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4AF3A5-0614-486A-834F-3DAF25A91B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4AF3A5-0614-486A-834F-3DAF25A91B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4AF3A5-0614-486A-834F-3DAF25A91B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03D7574C-025F-4318-B419-FC75B523F485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D7574C-025F-4318-B419-FC75B523F485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D7574C-025F-4318-B419-FC75B523F485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D7574C-025F-4318-B419-FC75B523F485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC2CB232-9323-4C58-9A2B-0D37407A345E}
+	EndGlobalSection
+EndGlobal
